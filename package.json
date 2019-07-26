@@ -1,8 +1,8 @@
 {
   "name": "UTAMU-CU",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "version": "1.0.1",
+  "author": "Bruno Nicholas",
+  "homepage": "https://utamu-cu.000webhostapp.com/home",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -55,5 +55,5 @@
     "tslint": "~5.17.0",
     "typescript": "~3.1.6"
   },
-  "description": "An Ionic project"
+  "description": "The UTAMU Christian Fellowship Mobile App!"
 }
